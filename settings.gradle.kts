@@ -1,4 +1,4 @@
-rootProject.name = "fabric-unnamed_mod-mod-kotlin-with-kotlin-dsl"
+rootProject.name = "unnamed_mod"
 pluginManagement {
     repositories {
         jcenter()
